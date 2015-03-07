@@ -1,0 +1,12 @@
+﻿Build started 2014/11/5 23:15:05.
+     1>Project "D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\LabTwo\LabTwo.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\Debug\LabTwo.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files\Microsoft SDKs\Windows\v7.1A" opengl32.lib glu32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\Debug\LabTwo.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\Debug\LabTwo.lib" /MACHINE:X86 Debug\LabTwo.obj
+         Debug\stdafx.obj
+         LINK : D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\Debug\LabTwo.exe not found or not built by the last incremental link; performing full link
+         LabTwo.vcxproj -> D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\Debug\LabTwo.exe
+     1>Done Building Project "D:\CS6555 Computer Animation\Lab 2 - by 1023\LabTwo\LabTwo\LabTwo.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.13
